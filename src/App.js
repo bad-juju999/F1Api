@@ -1,6 +1,5 @@
 import "./App.css";
 import CurrentStats from "./Components/CurrentStats";
-import LastRaceStats from "./Components/CurrentStats";
 import TrackSelector from "./Components/TrackSelector";
 
 function App() {
