@@ -13,6 +13,6 @@ Formula 1 fans, like most other sports fans, love looking at the stats. I starte
 
 Tools Used in Development
 ---
-React.js (version 18.2)
-HTML 5
-CSS 3
+- React.js (version 18.2)
+- HTML 5
+- CSS 3
